@@ -1,0 +1,10 @@
+To do connectome browsing, we wish to have a set of features from a visualization library that include:
+
+* Hierarchical navigation of brain regions to the cellular level
+* Discovery of connections from a brain region of interest to all others
+* Linking out to original references that define brain regions and connections
+* Browser-based technologies that avoid plugins as much as possible
+* Extensible architecture to allow future development and "future proofing"
+* A data access layer that is reusable by other tools, to ensure appropriate openness 
+
+see http://wiki.wholebraincatalog.org/wiki/Connectome_web_technologies
